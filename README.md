@@ -1,5 +1,5 @@
 # project-baitap
-## Cách chạy project:
+## How to run project:
 ```
 cd server
 composer install
